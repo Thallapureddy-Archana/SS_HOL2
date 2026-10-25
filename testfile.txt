@@ -1,0 +1,4 @@
+i am from original testfile.txt, written using fd
+i am from dup file descriptor dupfd1, using dup()
+i am from dup file descriptor dupfd2, using dup2()
+i am from dup file descriptor dupfd3, using fcntl()
